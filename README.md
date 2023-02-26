@@ -4,7 +4,7 @@ Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [What Exactly is Azure and the Cloud?](https://github.com/joylavaughn/What-is-the-cloud)
-  - [Creating our Subscription and First Resource](https://github.com/joylavaughn/configure-ad)
+  - [Creating our Subscription and First Resource](https://github.com/joylavaughn/Creating-an-Azure-subscription)
   
   - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joylavaughn/osticket-prereqs)
